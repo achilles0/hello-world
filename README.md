@@ -18,3 +18,6 @@ By using GitHub’s @mention system in your pull request message, you can ask fo
 
 You can even open pull requests in your own repository and merge them yourself. It’s a great way to learn the GitHub Flow before working on larger projects.
 >>>>>>> master
+
+
+2018-2-12: edit3 add a new feature 5...
